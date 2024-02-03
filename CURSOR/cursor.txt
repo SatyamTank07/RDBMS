@@ -1,0 +1,11 @@
+declare cursor_name cursor for select query
+declare continue handler for not found set err=1;
+open cursor_name ;
+	loop_name : loop
+	    fetch cursor_name  into our_variables;
+		if done then
+			leave loop;
+		endif;
+	   operation
+	end loop
+close cursor_name;
