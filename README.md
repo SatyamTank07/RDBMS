@@ -5,11 +5,11 @@ This repository contains various exercises and implementations related to Relati
 
 ## Contents
 - **Basic_exercise**: Basic SQL queries and exercises.
+- **inBuild_Functions**: Examples of inbuilt functions in SQL.
 - **CURSOR**: Implementation of cursors in SQL.
 - **Procedure**: Stored procedures and their usage.
 - **Trigger**: Implementation of triggers in SQL.
-- **inBuild_Functions**: Examples of inbuilt functions in SQL.
-- **Ref_BOOKS**: Reference books management system.
+- **Ref_BOOKS**: Reference books for the Mysql.
 
 ## Usage  
 Open the SQL files to explore various exercises and implementations. Run the scripts in your RDBMS environment to see the results.
